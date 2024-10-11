@@ -86,6 +86,7 @@ dotnet run -- summary --month 5
 - `Program.cs`: Entry point of the application, handles command-line arguments.
 - `ExpenseManager.cs`: Manages expenses (add, update, delete, list).
 - `BudgetManager.cs`: Manages monthly budgets (set, view, check if over budget).
+- `Expense.cs`: Represents an expense with properties like description, amount, and category.
 
 ## Contributing
 
